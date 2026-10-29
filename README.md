@@ -9,8 +9,8 @@ Computer Science student at Teesside University. I like finding the real bottlen
 - Run my own homelab: OpenWRT with segmented subnets, TrueNAS with ZFS snapshots, Home Assistant and AdGuard Home
 - Daily NixOS user
 
-## Currently
-
+## Current Projects
+- TTasks - A simple terminal task manager 
 
 ## Tools
 
